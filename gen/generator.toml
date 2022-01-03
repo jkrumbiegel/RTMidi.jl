@@ -1,0 +1,6 @@
+[general]
+library_name = "librtmidi"
+output_file_path = "./RTMidi.jl"
+module_name = "RTMidi"
+jll_pkg_name = "RTMidi_jll"
+export_symbol_prefixes = ["RT", "rt_"]
