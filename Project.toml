@@ -9,6 +9,7 @@ MIDI = "f57c4921-e30c-5f49-b073-3f2f2ada663e"
 rtmidi_jll = "dca704ad-10d6-524d-beb3-49f38e318998"
 
 [compat]
+MIDI = "2"
 julia = "1"
 
 [extras]
